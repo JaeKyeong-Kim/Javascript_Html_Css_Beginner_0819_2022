@@ -1,9 +1,9 @@
 p1 {
-    color: #ff0000;
+    color: #000000;
   }
   
   p2 {
-    background-color: #0000FF;
+    background-color:#ffffff;
   }
   
   p3 {
@@ -11,6 +11,6 @@ p1 {
   }
   
   em {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
   }

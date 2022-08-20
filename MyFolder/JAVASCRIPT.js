@@ -1,1 +1,1 @@
-document.write("Hello World from JS!");
+document.write("ㅇㅅㅇ ㅇㅅㅇ ㅇ");
